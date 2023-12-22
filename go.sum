@@ -1,0 +1,6 @@
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.824 h1:jRLjzByZ7Muw6HnSJuG+OYHiT+MyyO9pjYC/PbboUss=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.824/go.mod h1:r5r4xbfxSaeR04b166HGsBa/R4U3SueirEUpXGuw+Q0=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/sms v1.0.824 h1:M2KdJwDfZXBwHBVTE8eZDOdx6tfgpcmKsZaLvOZ8S48=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/sms v1.0.824/go.mod h1:3D8k7EkWhpX3Owg3SQ7mj341h7tI8sTHSDQwJyU/dAQ=
